@@ -1,0 +1,1320 @@
+{
+    "current": {
+      "data": {
+        "pt2-scaled": {
+          "time": "2020-06-05T17:59:11.000000Z",
+          "RD:647-PI2038_BedPressure-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              279.9943584702,
+              279.9834176769,
+              280.025793414,
+              280.0291305968,
+              280.0205716119,
+              279.9426346506,
+              279.9985137713
+            ]
+          },
+          "RD:647-XY2075_ClearWaterHeight-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              4.9908273399,
+              4.9799546284,
+              4.9734700188,
+              4.9570460829,
+              4.9395212209,
+              4.9704743669,
+              4.9772891123
+            ]
+          },
+          "RD:647-XY2008_FeedPercSolids-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              37.1230724641,
+              37.1230735779,
+              37.1230735779,
+              37.1230735779,
+              37.1230735779,
+              37.1230735779,
+              37.1230735779
+            ]
+          },
+          "RD:647-XY2090_FeedSolidsFlow-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              1448.1027452265,
+              1448.1027832031,
+              1448.1027832031,
+              1448.1027832031,
+              1448.1027832031,
+              1448.1027832031,
+              1448.1027832031
+            ]
+          },
+          "RD:647-XY2091_FeedSolidsFlowSimple-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              1284.3031886728,
+              1284.4445080753,
+              1284.4445080753,
+              1284.4445080753,
+              1284.4445080753,
+              1284.4445080753,
+              1284.4445080753
+            ]
+          },
+          "RD:673-FI2090_FlocDilutionFlow-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              77.6628773848,
+              77.6628799438,
+              77.6628799438,
+              77.6628799438,
+              77.6628799438,
+              77.6628799438,
+              77.6628799438
+            ]
+          },
+          "RD:647-TK458_FlocDose-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              13.4530048331,
+              21.4444446564,
+              21.4444446564,
+              21.4444446564,
+              21.4444446564,
+              21.4444446564,
+              21.4444446564
+            ]
+          },
+          "RD:647-TK458_FlocDoseSimple-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              15.1621807097,
+              15.1608607513,
+              15.1608607513,
+              15.1608607513,
+              15.1608607513,
+              15.1608607513,
+              15.1608607513
+            ],
+            "min": 14.605965174944444,
+            "max": 15.717076286055555,
+            "direct": 15.1615207305
+          },
+          "RD:647-XY2042_MudHeight-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              10.5000847673,
+              10.5073854588,
+              10.5237841007,
+              10.5404421651,
+              10.5598777301,
+              10.5508681966,
+              10.5382827223
+            ]
+          },
+          "RD:647-TK458-OI2007_RakeTorque-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              18.7332154377,
+              18.7428141544,
+              18.8276446877,
+              18.7809028809,
+              18.6892755699,
+              18.8353722844,
+              18.9624522417
+            ]
+          },
+          "RD:647-XY2020_UnderflowRate-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              949.4702193559,
+              1004.750201416,
+              1127.5946411133,
+              1195.1590576172,
+              1195.1590576172,
+              1195.1590576172,
+              1195.1590576172
+            ],
+            "min": 945.6920285677683,
+            "max": 1008.5283922041318,
+            "direct": 977.11021038595
+          },
+          "RD:647-XY2089_UnderflowPercSolids-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              65.8577755021,
+              65.8782696396,
+              65.8928369395,
+              65.9095384276,
+              65.9158726957,
+              65.9326384713,
+              65.946500556
+            ]
+          },
+          "Flocculant Flow Rate": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              null,
+              12.4215039965,
+              12.4215039965,
+              12.4215039965,
+              12.4215039965,
+              12.4215039965,
+              12.4215039965
+            ]
+          },
+          "Uncertainty_RD:647-XY2089_UnderflowPercSolids-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              null,
+              0.0373853058,
+              0.0453848408,
+              0.0487267669,
+              0.0621877222,
+              0.0661105517,
+              0.0819631979
+            ]
+          },
+          "Uncertainty_RD:647-PI2038_BedPressure-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              null,
+              0.1989171467,
+              0.2014964096,
+              0.2164558169,
+              0.2121820287,
+              0.2828792758,
+              0.2622092298
+            ]
+          },
+          "Uncertainty_RD:647-XY2075_ClearWaterHeight-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              null,
+              0.0411026799,
+              0.0401037294,
+              0.0438537801,
+              0.0481395239,
+              0.0741783369,
+              0.0825991238
+            ]
+          },
+          "Uncertainty_RD:647-XY2042_MudHeight-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              null,
+              0.0352455486,
+              0.0388798135,
+              0.0427332354,
+              0.0438182476,
+              0.0711811364,
+              0.0712318444
+            ]
+          },
+          "Uncertainty_RD:647-TK458-OI2007_RakeTorque-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              null,
+              0.9052233313,
+              0.8735326109,
+              0.9269708188,
+              0.9243994246,
+              0.8888200188,
+              1.0242137638
+            ]
+          },
+          "Uncertainty Status": {
+            "RD:647-PI2038_BedPressure-PV": "OK",
+            "RD:647-XY2075_ClearWaterHeight-PV": "OK",
+            "RD:647-TK458-OI2007_RakeTorque-PV": "OK",
+            "RD:647-XY2089_UnderflowPercSolids-PV": "OK"
+          },
+          "model_version": "v0.2",
+          "message": "Prediction ok",
+          "Data_Quality_RD:647-PI2038_BedPressure-PV": {
+            "times": [
+              0
+            ],
+            "values": [
+              "OK"
+            ]
+          },
+          "Data_Quality_RD:647-XY2075_ClearWaterHeight-PV": {
+            "times": [
+              0
+            ],
+            "values": [
+              "OK"
+            ]
+          },
+          "Data_Quality_RD:647-XY2008_FeedPercSolids-PV": {
+            "times": [
+              0
+            ],
+            "values": [
+              "OK"
+            ]
+          },
+          "Data_Quality_RD:647-XY2090_FeedSolidsFlow-PV": {
+            "times": [
+              0
+            ],
+            "values": [
+              "OK"
+            ]
+          },
+          "Data_Quality_RD:647-XY2091_FeedSolidsFlowSimple-PV": {
+            "times": [
+              0
+            ],
+            "values": [
+              "OK"
+            ]
+          },
+          "Data_Quality_RD:673-FI2090_FlocDilutionFlow-PV": {
+            "times": [
+              0
+            ],
+            "values": [
+              "OK"
+            ]
+          },
+          "Data_Quality_RD:647-TK458_FlocDose-PV": {
+            "times": [
+              0
+            ],
+            "values": [
+              "OK"
+            ]
+          },
+          "Data_Quality_RD:647-TK458_FlocDoseSimple-PV": {
+            "times": [
+              0
+            ],
+            "values": [
+              "OK"
+            ]
+          },
+          "Data_Quality_RD:647-XY2042_MudHeight-PV": {
+            "times": [
+              0
+            ],
+            "values": [
+              "OK"
+            ]
+          },
+          "Data_Quality_RD:647-TK458-OI2007_RakeTorque-PV": {
+            "times": [
+              0
+            ],
+            "values": [
+              "OK"
+            ]
+          },
+          "Data_Quality_RD:647-XY2020_UnderflowRate-PV": {
+            "times": [
+              0
+            ],
+            "values": [
+              "OK"
+            ]
+          },
+          "Data_Quality_RD:647-XY2089_UnderflowPercSolids-PV": {
+            "times": [
+              0
+            ],
+            "values": [
+              "OK"
+            ]
+          }
+        }
+      },
+      "metadata": {
+        "interval": 300000,
+        "time": "2020-06-05T17:59:11.000Z",
+        "pt2-scaled": {
+          "time": "2020-06-05T17:59:11.000Z",
+          "asset": "pt2-scaled",
+          "company": "referencia",
+          "task": "optimize",
+          "version": "v0.2",
+          "optiConfig": {
+            "rewards": {
+              "Underflow Percent Solids | Regressed Variance": {
+                "function": "RegressedVarianceReward",
+                "field": "Underflow Percent Solids",
+                "weight": 60
+              },
+              "Mass Balance": {
+                "function": "MassBalanceReward",
+                "width": 100,
+                "weight": 0.0075,
+                "setpoint": 0
+              },
+              "Flocculant Flow Rate | Min Mean": {
+                "function": "MeanReward",
+                "field": "Flocculant Flow Rate",
+                "maximize": false,
+                "weight": 0,
+                "power": 1
+              },
+              "Flocculant Dosage | Setpoint": {
+                "function": "DosageReward",
+                "setpoint": 18,
+                "weight": 0.001,
+                "width": 0.5
+              },
+              "Underflow Percent Solids | Min Variance": {
+                "function": "VarianceReward",
+                "field": "Underflow Percent Solids",
+                "maximize": false,
+                "weight": 0
+              },
+              "Underflow Percent Solids | Max Constraint": {
+                "function": "MaxConstraint",
+                "field": "Underflow Percent Solids",
+                "limit": 70,
+                "weight": 0,
+                "slope": 1
+              },
+              "Bed Pressure | Max Constraint": {
+                "function": "MaxConstraint",
+                "field": "Bed Pressure",
+                "limit": 237,
+                "weight": 0,
+                "slope": 1
+              },
+              "Bed Mud Delta": {
+                "function": "BedMudReward",
+                "weight": 0
+              },
+              "Flocculant Dilution Ratio | Setpoint": {
+                "function": "RatioReward",
+                "setpoint": 9,
+                "weight": 0,
+                "width": 1
+              },
+              "Rake Torque | Max Constraint": {
+                "function": "MaxConstraint",
+                "field": "Rake Torque",
+                "limit": 18,
+                "weight": 0,
+                "slope": 2
+              },
+              "Clear Water Height | Power Max Constraint": {
+                "function": "PowerConstraint",
+                "field": "Clear Water Height",
+                "weight": 0.833,
+                "softLimit": 6.84,
+                "hardLimit": 6.6,
+                "power": 1.85
+              },
+              "Clear Water Height | Min Constraint": {
+                "function": "MinConstraint",
+                "field": "Clear Water Height",
+                "limit": 3.5,
+                "weight": 0,
+                "slope": 5
+              },
+              "Underflow Percent Solids | Max Mean": {
+                "function": "MeanReward",
+                "field": "Underflow Percent Solids",
+                "maximize": true,
+                "weight": 1,
+                "power": 1
+              },
+              "Clear Water Height | Max Mean": {
+                "function": "MeanReward",
+                "field": "Clear Water Height",
+                "maximize": true,
+                "weight": 0.25,
+                "power": 0.8
+              },
+              "Rake Torque | Power Max Constraint": {
+                "function": "PowerConstraint",
+                "field": "Rake Torque",
+                "weight": 1,
+                "softLimit": 12.5,
+                "hardLimit": 14,
+                "power": 2
+              },
+              "Underflow Percent Solids | Power Max Constraint": {
+                "function": "PowerConstraint",
+                "field": "Underflow Percent Solids",
+                "weight": 1,
+                "softLimit": 70,
+                "hardLimit": 71,
+                "power": 2
+              },
+              "Bed Pressure | Power Max Constraint": {
+                "function": "PowerConstraint",
+                "field": "Bed Pressure",
+                "weight": 0.833,
+                "softLimit": 258,
+                "hardLimit": 260.4,
+                "power": 1.933
+              },
+              "Underflow Flow Rate | Power Min Constraint": {
+                "function": "PowerConstraint",
+                "field": "Underflow Flow Rate",
+                "weight": 0,
+                "softLimit": 350,
+                "hardLimit": 300,
+                "power": 2
+              },
+              "Underflow Flow Rate | Power Max Constraint": {
+                "function": "PowerConstraint",
+                "field": "Underflow Flow Rate",
+                "weight": 0,
+                "softLimit": 600,
+                "hardLimit": 750,
+                "power": 2
+              },
+              "Flocculant Flow Rate | Power Min Constraint": {
+                "function": "PowerConstraint",
+                "field": "Flocculant Flow Rate",
+                "weight": 0,
+                "softLimit": 1,
+                "hardLimit": 0.5,
+                "power": 2
+              },
+              "Flocculant Flow Rate | Power Max Constraint": {
+                "function": "PowerConstraint",
+                "field": "Flocculant Flow Rate",
+                "weight": 0,
+                "softLimit": 5,
+                "hardLimit": 6,
+                "power": 2
+              }
+            },
+            "limits": {
+              "Flocculant Flow Rate": {
+                "max": null,
+                "min": null,
+                "points": null,
+                "change": null
+              },
+              "Flocculant Dose": {
+                "max": 22,
+                "min": 12,
+                "points": 9,
+                "change": 50
+              },
+              "Underflow Flow Rate": {
+                "max": 1296,
+                "min": 604.8,
+                "points": 11,
+                "change": 13.82
+              }
+            }
+          }
+        }
+      },
+      "err": null
+    },
+    "previous": {
+      "data": {
+        "pt2-scaled": {
+          "time": "2020-06-05T17:54:11.001000Z",
+          "RD:647-PI2038_BedPressure-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              279.9690880178,
+              279.9600182217,
+              279.9973255382,
+              280.0144338986,
+              280.0434626082,
+              279.9243223534,
+              280.0417273424
+            ]
+          },
+          "RD:647-XY2075_ClearWaterHeight-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              4.9899683057,
+              4.9943645525,
+              4.9903487809,
+              4.9766348278,
+              4.9521479222,
+              4.9804763689,
+              4.9908870339
+            ]
+          },
+          "RD:647-XY2008_FeedPercSolids-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              36.9517555881,
+              36.9517555237,
+              36.9517555237,
+              36.9517555237,
+              36.9517555237,
+              36.9517555237,
+              36.9517555237
+            ]
+          },
+          "RD:647-XY2090_FeedSolidsFlow-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              1387.6009983059,
+              1387.6009521484,
+              1387.6009521484,
+              1387.6009521484,
+              1387.6009521484,
+              1387.6009521484,
+              1387.6009521484
+            ]
+          },
+          "RD:647-XY2091_FeedSolidsFlowSimple-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              1279.9646436232,
+              1279.7569008365,
+              1279.7569008365,
+              1279.7569008365,
+              1279.7569008365,
+              1279.7569008365,
+              1279.7569008365
+            ]
+          },
+          "RD:673-FI2090_FlocDilutionFlow-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              78.3457851482,
+              78.3457870483,
+              78.3457870483,
+              78.3457870483,
+              78.3457870483,
+              78.3457870483,
+              78.3457870483
+            ]
+          },
+          "RD:647-TK458_FlocDose-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              14.0462157096,
+              18.1111106873,
+              18.1111106873,
+              18.1111106873,
+              18.1111106873,
+              18.1111106873,
+              18.1111106873
+            ]
+          },
+          "RD:647-TK458_FlocDoseSimple-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              15.2062917568,
+              15.2090343009,
+              15.2090343009,
+              15.2090343009,
+              15.2090343009,
+              15.2090343009,
+              15.2090343009
+            ],
+            "min": 14.652107473294445,
+            "max": 15.763218584405555,
+            "direct": 15.20766302885
+          },
+          "RD:647-XY2042_MudHeight-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              10.5008806585,
+              10.5021546668,
+              10.5135638131,
+              10.524578286,
+              10.5424431074,
+              10.5413224443,
+              10.5316850167
+            ]
+          },
+          "RD:647-TK458-OI2007_RakeTorque-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              18.6161093708,
+              18.6396066771,
+              18.5466710805,
+              18.6441775798,
+              18.5680143315,
+              18.6782495673,
+              18.681183081
+            ]
+          },
+          "RD:647-XY2020_UnderflowRate-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              951.5344011785,
+              1006.8143981934,
+              1129.6588378906,
+              1197.2232666016,
+              1197.2232666016,
+              1197.2232666016,
+              1197.2232666016
+            ],
+            "min": 947.7562178677682,
+            "max": 1010.5925815041318,
+            "direct": 979.17439968595
+          },
+          "RD:647-XY2089_UnderflowPercSolids-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              65.8109161571,
+              65.8460938815,
+              65.8727532712,
+              65.8955328502,
+              65.8983480088,
+              65.9062203541,
+              65.9319127767
+            ]
+          },
+          "Flocculant Flow Rate": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              null,
+              10.0523977736,
+              10.0523977736,
+              10.0523977736,
+              10.0523977736,
+              10.0523977736,
+              10.0523977736
+            ]
+          },
+          "Uncertainty_RD:647-XY2089_UnderflowPercSolids-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              null,
+              0.0400003868,
+              0.0400905241,
+              0.0485949297,
+              0.0640553133,
+              0.0670744125,
+              0.0694963442
+            ]
+          },
+          "Uncertainty_RD:647-PI2038_BedPressure-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              null,
+              0.2366685659,
+              0.19571787,
+              0.1700273876,
+              0.1891310895,
+              0.2615445417,
+              0.2797535189
+            ]
+          },
+          "Uncertainty_RD:647-XY2075_ClearWaterHeight-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              null,
+              0.0380350824,
+              0.0419727435,
+              0.0439507463,
+              0.0441764856,
+              0.0609249141,
+              0.0609599682
+            ]
+          },
+          "Uncertainty_RD:647-XY2042_MudHeight-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              null,
+              0.0403615719,
+              0.0409372278,
+              0.0384371725,
+              0.0377938559,
+              0.0613545994,
+              0.0637684509
+            ]
+          },
+          "Uncertainty_RD:647-TK458-OI2007_RakeTorque-PV": {
+            "times": [
+              0,
+              5,
+              15,
+              25,
+              35,
+              45,
+              55
+            ],
+            "values": [
+              null,
+              1.0639472551,
+              0.8521046263,
+              0.9850534941,
+              0.931345045,
+              0.9868417476,
+              1.0064930205
+            ]
+          },
+          "Uncertainty Status": {
+            "RD:647-PI2038_BedPressure-PV": "OK",
+            "RD:647-XY2075_ClearWaterHeight-PV": "OK",
+            "RD:647-TK458-OI2007_RakeTorque-PV": "OK",
+            "RD:647-XY2089_UnderflowPercSolids-PV": "OK"
+          },
+          "model_version": "v0.2",
+          "message": "Prediction ok",
+          "Data_Quality_RD:647-PI2038_BedPressure-PV": {
+            "times": [
+              0
+            ],
+            "values": [
+              "OK"
+            ]
+          },
+          "Data_Quality_RD:647-XY2075_ClearWaterHeight-PV": {
+            "times": [
+              0
+            ],
+            "values": [
+              "OK"
+            ]
+          },
+          "Data_Quality_RD:647-XY2008_FeedPercSolids-PV": {
+            "times": [
+              0
+            ],
+            "values": [
+              "OK"
+            ]
+          },
+          "Data_Quality_RD:647-XY2090_FeedSolidsFlow-PV": {
+            "times": [
+              0
+            ],
+            "values": [
+              "OK"
+            ]
+          },
+          "Data_Quality_RD:647-XY2091_FeedSolidsFlowSimple-PV": {
+            "times": [
+              0
+            ],
+            "values": [
+              "OK"
+            ]
+          },
+          "Data_Quality_RD:673-FI2090_FlocDilutionFlow-PV": {
+            "times": [
+              0
+            ],
+            "values": [
+              "OK"
+            ]
+          },
+          "Data_Quality_RD:647-TK458_FlocDose-PV": {
+            "times": [
+              0
+            ],
+            "values": [
+              "OK"
+            ]
+          },
+          "Data_Quality_RD:647-TK458_FlocDoseSimple-PV": {
+            "times": [
+              0
+            ],
+            "values": [
+              "OK"
+            ]
+          },
+          "Data_Quality_RD:647-XY2042_MudHeight-PV": {
+            "times": [
+              0
+            ],
+            "values": [
+              "OK"
+            ]
+          },
+          "Data_Quality_RD:647-TK458-OI2007_RakeTorque-PV": {
+            "times": [
+              0
+            ],
+            "values": [
+              "OK"
+            ]
+          },
+          "Data_Quality_RD:647-XY2020_UnderflowRate-PV": {
+            "times": [
+              0
+            ],
+            "values": [
+              "OK"
+            ]
+          },
+          "Data_Quality_RD:647-XY2089_UnderflowPercSolids-PV": {
+            "times": [
+              0
+            ],
+            "values": [
+              "OK"
+            ]
+          }
+        }
+      },
+      "metadata": {
+        "interval": 300000,
+        "time": "2020-06-05T17:54:11.001Z",
+        "pt2-scaled": {
+          "time": "2020-06-05T17:54:11.001Z",
+          "asset": "pt2-scaled",
+          "company": "referencia",
+          "task": "optimize",
+          "version": "v0.2",
+          "optiConfig": {
+            "rewards": {
+              "Underflow Percent Solids | Regressed Variance": {
+                "function": "RegressedVarianceReward",
+                "field": "Underflow Percent Solids",
+                "weight": 60
+              },
+              "Mass Balance": {
+                "function": "MassBalanceReward",
+                "width": 100,
+                "weight": 0.0075,
+                "setpoint": 0
+              },
+              "Flocculant Flow Rate | Min Mean": {
+                "function": "MeanReward",
+                "field": "Flocculant Flow Rate",
+                "maximize": false,
+                "weight": 0,
+                "power": 1
+              },
+              "Flocculant Dosage | Setpoint": {
+                "function": "DosageReward",
+                "setpoint": 18,
+                "weight": 0.001,
+                "width": 0.5
+              },
+              "Underflow Percent Solids | Min Variance": {
+                "function": "VarianceReward",
+                "field": "Underflow Percent Solids",
+                "maximize": false,
+                "weight": 0
+              },
+              "Underflow Percent Solids | Max Constraint": {
+                "function": "MaxConstraint",
+                "field": "Underflow Percent Solids",
+                "limit": 70,
+                "weight": 0,
+                "slope": 1
+              },
+              "Bed Pressure | Max Constraint": {
+                "function": "MaxConstraint",
+                "field": "Bed Pressure",
+                "limit": 237,
+                "weight": 0,
+                "slope": 1
+              },
+              "Bed Mud Delta": {
+                "function": "BedMudReward",
+                "weight": 0
+              },
+              "Flocculant Dilution Ratio | Setpoint": {
+                "function": "RatioReward",
+                "setpoint": 9,
+                "weight": 0,
+                "width": 1
+              },
+              "Rake Torque | Max Constraint": {
+                "function": "MaxConstraint",
+                "field": "Rake Torque",
+                "limit": 18,
+                "weight": 0,
+                "slope": 2
+              },
+              "Clear Water Height | Power Max Constraint": {
+                "function": "PowerConstraint",
+                "field": "Clear Water Height",
+                "weight": 0.833,
+                "softLimit": 6.84,
+                "hardLimit": 6.6,
+                "power": 1.85
+              },
+              "Clear Water Height | Min Constraint": {
+                "function": "MinConstraint",
+                "field": "Clear Water Height",
+                "limit": 3.5,
+                "weight": 0,
+                "slope": 5
+              },
+              "Underflow Percent Solids | Max Mean": {
+                "function": "MeanReward",
+                "field": "Underflow Percent Solids",
+                "maximize": true,
+                "weight": 1,
+                "power": 1
+              },
+              "Clear Water Height | Max Mean": {
+                "function": "MeanReward",
+                "field": "Clear Water Height",
+                "maximize": true,
+                "weight": 0.25,
+                "power": 0.8
+              },
+              "Rake Torque | Power Max Constraint": {
+                "function": "PowerConstraint",
+                "field": "Rake Torque",
+                "weight": 1,
+                "softLimit": 12.5,
+                "hardLimit": 14,
+                "power": 2
+              },
+              "Underflow Percent Solids | Power Max Constraint": {
+                "function": "PowerConstraint",
+                "field": "Underflow Percent Solids",
+                "weight": 1,
+                "softLimit": 70,
+                "hardLimit": 71,
+                "power": 2
+              },
+              "Bed Pressure | Power Max Constraint": {
+                "function": "PowerConstraint",
+                "field": "Bed Pressure",
+                "weight": 0.833,
+                "softLimit": 258,
+                "hardLimit": 260.4,
+                "power": 1.933
+              },
+              "Underflow Flow Rate | Power Min Constraint": {
+                "function": "PowerConstraint",
+                "field": "Underflow Flow Rate",
+                "weight": 0,
+                "softLimit": 350,
+                "hardLimit": 300,
+                "power": 2
+              },
+              "Underflow Flow Rate | Power Max Constraint": {
+                "function": "PowerConstraint",
+                "field": "Underflow Flow Rate",
+                "weight": 0,
+                "softLimit": 600,
+                "hardLimit": 750,
+                "power": 2
+              },
+              "Flocculant Flow Rate | Power Min Constraint": {
+                "function": "PowerConstraint",
+                "field": "Flocculant Flow Rate",
+                "weight": 0,
+                "softLimit": 1,
+                "hardLimit": 0.5,
+                "power": 2
+              },
+              "Flocculant Flow Rate | Power Max Constraint": {
+                "function": "PowerConstraint",
+                "field": "Flocculant Flow Rate",
+                "weight": 0,
+                "softLimit": 5,
+                "hardLimit": 6,
+                "power": 2
+              }
+            },
+            "limits": {
+              "Flocculant Flow Rate": {
+                "max": null,
+                "min": null,
+                "points": null,
+                "change": null
+              },
+              "Flocculant Dose": {
+                "max": 22,
+                "min": 12,
+                "points": 9,
+                "change": 50
+              },
+              "Underflow Flow Rate": {
+                "max": 1296,
+                "min": 604.8,
+                "points": 11,
+                "change": 13.82
+              }
+            }
+          }
+        }
+      },
+      "err": null
+    }
+  }

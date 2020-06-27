@@ -145,6 +145,7 @@ class Rows extends Component{
                             ))     
                         }
                     </table> 
+                    {/* Line Graph */}
                     {
                         showGraph ?
                             <Line

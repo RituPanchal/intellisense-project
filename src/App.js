@@ -11,6 +11,7 @@ class App extends Component{
     }
   }
 
+  //API
   async componentDidMount() {
     let response = await axios.get('https://reference.intellisense.io/thickenernn/v1/referencia');
     this.setState({ items: response.data.current.data['pt2-scaled'] });
